@@ -1,0 +1,3 @@
+export const GET_EMPOLYEE = "GET_EMPOLYEE";
+
+export const FETCH_EMPLOYEE_DATA = "FETCH_EMPLOYEE_DATA";
